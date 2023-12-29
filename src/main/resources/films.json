@@ -1,0 +1,42 @@
+[
+    {
+        "film": "4f31b959-dd52-4f70-adaa-9fb3124156cb",
+        "title": "The Woman King",
+        "date": "2022-09-15",
+        "trailer": "https://www.youtube.com/watch?v=3RDaPV_rJ1Y",
+        "genres": [ "ACTION", "DRAMA", "HISTORY" ],
+        "image": "https://image.tmdb.org/t/p/w500/5O1GLla5vNuegqNxNhKL1OKE1lO.jpg"
+    },
+    {
+        "film": "8ad5cc5b-2544-4339-be04-9c6043f87173",
+        "title": "Black Adam",
+        "date": "2022-10-19",
+        "trailer": "https://www.youtube.com/watch?v=JaV7mmc9HGw",
+        "genres": [ "ACTION", "FANTASY", "FICTION" ],
+        "image": "https://image.tmdb.org/t/p/w500/pFlaoHTZeyNkG83vxsAJiGzfSsa.jpg"
+    },
+    {
+        "film": "2b3cd13d-859d-4e49-b55f-74d555d5bbd1",
+        "title": "Avatar: The Way of Water",
+        "date": "2022-12-16",
+        "trailer": "https://www.youtube.com/watch?v=d9MyW72ELq0",
+        "genres": [ "ACTION", "ADVENTURE", "FICTION" ],
+        "image": "https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg"
+    },
+    {
+        "film": "12a65fbc-cd2e-4c60-9fef-37837df8df91",
+        "title": "Puss in Boots: The Last Wish",
+        "date": "2022-12-21",
+        "trailer": "https://www.youtube.com/watch?v=tHb7WlgyaUc",
+        "genres": [ "ACTION", "ADVENTURE", "ANIMATION", "COMEDY", "FAMILY" ],
+        "image": "https://image.tmdb.org/t/p/w500/1NqwE6LP9IEdOZ57NCT51ftHtWT.jpg"
+    },
+    {
+        "film": "b4c5109b-947b-4704-b93d-c3143b42153d",
+        "title": "M3GAN",
+        "date": "2023-01-06",
+        "trailer": "https://www.youtube.com/watch?v=BRb4U99OU80",
+        "genres": [ "COMEDY", "FICTION", "HORROR" ],
+        "image": "https://image.tmdb.org/t/p/w500/xBl5AGw7HXZcv1nNXPlzGgO4Cfo.jpg"
+    }
+]
